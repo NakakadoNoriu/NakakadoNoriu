@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <h1 align="center">  Hi 👋 Im Noriu </h1>
   <h3> Full Satck web developer apasionado en programar y entusiasmado en seguir aprendiendo nuevos temas para el desarrollo de paginas web </h3>
   <h4> Correo: nakakadonoriu@gmail.com </h4>
-  <h4> Linkedin: https://www.linkedin.com/in/noriu-diaz-nakakado-053946249/  </h4>
+  <h4> Linkedin: www.linkedin.com/in/noriu-diaz-nakakado
+  </h4>
 </div>
 <hr/>
 <!--
