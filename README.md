@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/> 
-  <h1 align="center">  Hi 👋 Im Noriu </h1>
+  <h1 align="center">  Holaa 👋 Soy Noriu Diaz Nakakado </h1>
   <h3> Full Satck web developer apasionado en programar y entusiasmado en seguir aprendiendo nuevos temas para el desarrollo de paginas web </h3>
   <h4> Correo: nakakadonoriu@gmail.com </h4>
   <h4> Linkedin: www.linkedin.com/in/noriu-diaz-nakakado
