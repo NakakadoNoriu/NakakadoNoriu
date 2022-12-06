@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <h3> Full Satck web developer graduado de Henry apasionado en programar y entusiasmado en seguir aprendiendo nuevos temas para el desarrollo de paginas web, amante de los deportes como futbol, voley, beisbol, etc. Bienvenido a mi perfil, espero les agrade</h3>
   </h4>
 </div>
+<p> - 🧠 Actualmente estoy estudiando Ingles y Typescript </p>
 <div>
   <p>Aqui les dejo mis correos si desean contactarme:</p>
   <h4> Correo: nakakadonoriu@gmail.com </h4>
